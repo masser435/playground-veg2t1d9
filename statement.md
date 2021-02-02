@@ -15,3 +15,5 @@ func main() {
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Go template](https://tech.io/select-repo/597)
+
+ellipse(34, 45, 65, 76)
